@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyComponent</string>
+
+    <string name="textview_text">Hola, me llamo Piter y no soy Spiderman</string>
+</resources>

@@ -1,0 +1,2 @@
+include ':app', ':mycomponent', ':graficacircular'
+rootProject.name='DeintPruebaComponentesPersonalizados'
